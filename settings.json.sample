@@ -1,0 +1,11 @@
+{
+  "thermostat_name": "",
+  "target_temp": 66,
+  "poll_interval": 300,
+  "aio_key": "",
+  "nest_id": "",
+  "nest_key": "",
+  "pi_pin": 4,
+  "sensor_offset": 0,
+  "sensor": "AM2302"
+}
