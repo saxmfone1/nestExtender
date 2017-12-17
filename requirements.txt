@@ -1,0 +1,3 @@
+Adafruit_IO
+Adafruit_DHT
+nest
